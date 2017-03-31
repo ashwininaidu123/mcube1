@@ -1,0 +1,98 @@
+<!-- START MAIN CONTENT -->
+	<div id="main-content">
+	<!-- BEGIN ERROR BOX -->
+	<div class="row">
+		<div class="col-md-12">
+			<div class="panel panel-default">
+				
+				<div class="panel-body">
+					<div class="row">
+					   <div class="col-md-12">
+						  <div class="panel panel-default">
+							<div class="panel-heading heading-class">
+							  <h2 class="panel-title" style="width:100%;text-align:center;font-size:18px"><?php echo 'New Release List'; ?></h2>
+							 </div>
+							<div class="panel-body">
+								<div class="row">
+									<div class="col-md-12">
+						         <ul class="ul_newrel">
+											<li>
+												<i class="fa fa-angle-right"></i>
+												<a href="TrackReport/all">
+													  Convert to lead feature in PBX, IVRS, MTracker and click to connect reports on edit.
+												</a>
+											</li> 
+											<li>
+												<i class="fa fa-angle-right"></i>
+												<a href="MTrackerDashboard">
+													  Added graphical representation of calls in MTracker dashboard(Pie chart).
+												</a>
+											</li> 
+											<li>
+												<i class="fa fa-angle-right"></i>
+												<a href="TrackReport/all">
+													  Graphical representation added in all module wise reports. This reports will include both Tabular &amp; Graphical data analytic.
+												</a>
+											</li> 
+											 <li>
+												 <i class="fa fa-angle-right"></i>
+												<a href="empPerformance/0">
+													 Employee performance – Reports by graphical and tabular representation.
+												</a>
+											</li> 
+											<li>
+												<i class="fa fa-angle-right"></i>
+												<a>
+													 SMS configuration: Allow DND option on selection of client SMS and implemented on all modules.
+												</a>
+											</li> 
+											<li>
+												<i class="fa fa-angle-right"></i>
+												<a href="#">
+													 Call back request option provided for our clients to contact our support team.
+												</a>
+											</li> 
+											<li>
+												<i class="fa fa-angle-right"></i>
+												<a>
+													DND number verification form added in Login panel.
+												</a>
+											</li> 
+											<li>
+												<i class="fa fa-angle-right"></i>
+												<a href="empPerformance/0">
+													 Employee performance reports also include Percentage of report.
+												</a>
+											</li> 
+											<li>
+												<i class="fa fa-angle-right"></i>
+												<a href="TrackDashboard">
+													 Added option in Track/IVRS/PBX/Lead/Support/MTracker/Outbound dashboard to show Daily/Weekly/Monthly reports.
+												</a>
+											</li> 
+											<li>
+												<i class="fa fa-angle-right"></i>
+												<a>
+													Based on role the records/report will show in Employee performance report.
+												</a>
+											</li> 
+											<li>
+												<i class="fa fa-angle-right"></i>
+												<a href="EmpMonthlyPer/0/2017/01">
+													In Employee performance, calender is added to show total calls, answered calls and missed calls based on role.
+												</a>
+											</li>                            
+									</ul>
+					        </div>
+				        </div>
+				  </div>
+			</div>
+		</div>
+	</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<!-- END WRAPPER -->
